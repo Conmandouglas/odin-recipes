@@ -1,2 +1,2 @@
 # odin-recipes
-A project made using "The Odin Project" (A free open source program NOT made my me)
+This is a project I made whilst following along to "The Odin Project" course. I use Git and Github together both on a Linux system.
